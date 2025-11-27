@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 
 app.get('/', (req, res) => {
-  res.send('Hello DevOps! Node.js alapú házi feladat. Made by Balom Soma - T3JIXF ');
+  res.send('Hello DevOps! Ez egy feature branch üzenet. Made by Balom Soma - T3JIXF ');
 });
 
 app.listen(PORT, () => {
