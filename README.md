@@ -12,6 +12,15 @@ Előfeltételek:
 - Docker
 - VS Code + Dev Containers extension
 
+A projekt célja, hogy bemutassa az alap DevOps lépéseket:
+
+- forráskód készítése
+- verziókezelés Git-tel (trunk-based: `main` + feature branch)
+- buildelés (npm)
+- konténerizálás (Docker)
+- image pusholása registry-be (Docker Hub)
+- fejlesztői környezet Dev Containerrel
+
 Projekt: https://github.com/titetoyz/devops-beadando.git
 
 
