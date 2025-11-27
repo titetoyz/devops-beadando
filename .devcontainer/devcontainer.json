@@ -1,0 +1,10 @@
+{
+  "name": "hello-devops",
+  "build": {
+    "dockerfile": "../Dockerfile",
+    "context": ".."
+  },
+  "forwardPorts": [8080],
+  "postCreateCommand": "npm install",
+  "remoteUser": "node"
+}
