@@ -23,5 +23,6 @@ A projekt célja, hogy bemutassa az alap DevOps lépéseket:
 
 Projekt: https://github.com/titetoyz/devops-beadando.git
 
-
+powered by Balom Soma 
+neptun kód: T3JIXF
 
