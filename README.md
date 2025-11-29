@@ -32,6 +32,7 @@ Dockerizáláshoz a projekt gyökeérben:
 docker build -t hello-devops:v1 
 
 Konténer futtatáshoz pedig ez a parancs kell: docker run -p 8080:8080 hello-devops:v1
+
 powered by Balom Soma 
 neptun kód: T3JIXF
 
