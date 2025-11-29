@@ -28,7 +28,7 @@ Buildelés lépései:
 1, npm run build
 2, npm start
 
-Dockerizáláshoz a projekt gyökeérben:
+Dockerizáláshoz a projekt gyökérben cmd ablakban:
 docker build -t hello-devops:v1 
 
 Konténer futtatáshoz pedig ez a parancs kell: docker run -p 8080:8080 hello-devops:v1
